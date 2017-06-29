@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aleja\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\visual-recognition\3.7.2\c13fcf61ba3cf856071033099ac5a1dd80899a12\visual-recognition-3.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c13fcf61ba3cf856071033099ac5a1dd80899a12">
+        <dex dex="C:\Users\aleja\AndroidStudioProjects\VisualBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\visual-recognition-3.7.2_12b3f1848d9cb955fe4dc852b7bb69db4dcd8409\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aleja\AndroidStudioProjects\VisualBus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b18ef26f7390d09a3e8fe59bf493f96557fc3a19">
+        <dex dex="C:\Users\aleja\AndroidStudioProjects\VisualBus\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_577fd32bc6c7a5df31a261ef8ba6233c06dc83db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aleja\AndroidStudioProjects\VisualBus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\aleja\AndroidStudioProjects\VisualBus\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_737c445479b70a8b05525690acc235dd88e6cc9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aleja\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.7.2\d9b33430f8201d39b45d95cc775f7cd29a08bdbd\core-3.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d9b33430f8201d39b45d95cc775f7cd29a08bdbd">
+        <dex dex="C:\Users\aleja\AndroidStudioProjects\VisualBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.7.2_19afa6a5ec9eff5e48dde87077085d8d8c39e45b\classes.dex" />
+    </item>
+
+</items>
